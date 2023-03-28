@@ -4,7 +4,7 @@ language: pl
 date: 2023-03-28T14:15:08.475Z
 description: polski
 ---
-<div style="text-align:right;"><p style="font-size:75%;color:#555">Tłumaczenia: <a href="/manifesto/en/">English</a></p></div>
+<div style="text-align:right;"><p style="font-size:72%;color:#555">Tłumaczenia: <a href="/manifesto/en/">English</a></p></div>
 
 Drodzy zwolennicy otwartego dostępu do wiedzy!
 
@@ -12,26 +12,26 @@ Chcemy przedstawić wam manifest Wolnej Genomiki – ideału, który mówi o ws
 i wolności w świecie nauk dotyczących działania ludzkiego organizmu oraz nowoczesnych
 technologii.
 
-Pragniemy pokazać wam wizję świata, w którym wiedza genetyczna jest dostępna dla
+Pragniemy zaproponować wizję świata, w którym wiedza genetyczna jest dostępna dla
 każdego, niezależnie od pochodzenia czy społecznego statusu. Przekazujemy więc ten
-apel, wołanie o wolność czerpania korzyści z nauk dotyczących naszych genów.
+apel, to wołanie o wolność czerpania korzyści z nauk dotyczących naszych genów.
 
 Wierzymy, że każdy człowiek zasługuje na równy dostęp do wiedzy genetycznej oraz na
 możliwość poprawy własnego zdrowia i jakości życia. Jesteśmy przekonani, że nie ma
-czegoś takiego jak "za głupi na wiedzę". Wszyscy ludzie mają zdolność uczenia się
-i doskonalenia, szczególnie wtedy, gdy naprawdę tego potrzebują. w ekstremalnych
-okolicznościach ludzki umysł potrafi pokonywać wszelkie ograniczenia. Wiedza
-genetyczna, która dotyczy nas samych, nie powinna być zarezerwowana tylko dla
-wybranych. Każdy człowiek ma prawo do poznania tajników własnego ciała i mechanizmów
-jego funkcjonowania.
+czegoś takiego jak "za głupi na wiedzę". Wszyscy mamy zdolność uczenia się
+i doskonalenia, szczególnie wtedy, gdy naprawdę tego potrzebujemy. Często
+okoliczności sprawiają, że ludzki umysł pokonuje ograniczenia. Wiedza genetyczna,
+która dotyczy nas samych, nie powinna być zarezerwowana tylko dla wybranych. Każdy
+człowiek ma prawo do poznania tajników własnego ciała i mechanizmów jego
+funkcjonowania.
 
 Dostrzegamy, że czas jest cennym zasobem. Gdy cierpimy i musimy czekać na wizytę
-u specjalisty, na rezultaty badań czy na konsultacje z ekspertem, powinniśmy mieć
-sposobność skutecznego pomagania sobie i sprawdzania własnego stanu przez dostęp do
-otwartej, przetestowanej wiedzy badawczej, a także usług, które pozwalają z niej
-korzystać. Dzięki temu zamiast biernie się przyglądać możemy zrobić cokolwiek, aby
-polepszyć sytuację naszą i naszych bliskich. Nikt nie powinien mieć prawa, aby to
-ograniczać.
+u specjalisty, na rezultaty badań czy na konsultację z lekarzem, powinniśmy mieć
+sposobność skutecznego pomagania sobie i sprawdzania własnego stanu. Powinniśmy mieć
+dostęp do otwartej, przetestowanej wiedzy badawczej, a także usług, które
+pozwalają z niej korzystać. Dzięki temu zamiast biernie się przyglądać możemy zrobić
+cokolwiek, aby polepszyć sytuację naszą i naszych bliskich. Nikt nie powinien mieć
+prawa, aby to ograniczać.
 
 Są wśród nas i tacy, którzy czytając te słowa nie odczuwają presji czasu, lecz
 z powodu wrodzonej ciekawości chcą sprawdzać, w jaki sposób zapobiegać potencjalnym
