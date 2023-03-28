@@ -9,7 +9,7 @@ import PostPreview from "./cms-preview-templates/post";
 import ManifestoPreview from "./cms-preview-templates/manifesto";
 import ProductsPreview from "./cms-preview-templates/products";
 import ApplicationsPreview from "./cms-preview-templates/applications";
-import ValuesPreview from "./cms-preview-templates/values";
+import CoreValuesPreview from "./cms-preview-templates/corevalues";
 import ContactPreview from "./cms-preview-templates/contact";
 
 CMS.registerPreviewStyle(styles, { raw: true });
