@@ -17,6 +17,6 @@ CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("manifesto", ManifestoPreview);
 CMS.registerPreviewTemplate("applications", ApplicationsPreview);
-CMS.registerPreviewTemplate("values", ValuesPreview);
+CMS.registerPreviewTemplate("corevalues", CoreValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.init();
