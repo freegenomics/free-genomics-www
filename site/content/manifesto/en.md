@@ -1,9 +1,7 @@
 ---
 title: Free Genomics Manifesto
 date: 2023-03-28T11:20:24.355Z
-description: We wish to introduce to you the Free Genomics Manifesto – an ideal
-  that speaks of cooperation and freedom in the world of sciences regarding the
-  functioning of the human body and modern technologies.
+description: "[English]"
 ---
 Dear supporters of common access to knowledge!
 
