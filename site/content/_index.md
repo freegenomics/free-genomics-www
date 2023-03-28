@@ -9,10 +9,8 @@ blurb:
     functioning of the human body and modern technologies.
 intro:
   heading: What is Free Genomics?
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  text: Free Genomics is an ideal and social movement connecting people who
+    believe that genetic knowledge should be open and accessible to everyone.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
