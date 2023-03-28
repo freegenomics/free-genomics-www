@@ -4,7 +4,7 @@ language: en
 date: 2023-03-28T11:20:24.355Z
 description: English
 ---
-<div><p style="font-size:75%;">Translations: <a href="/manifesto/pl/">polskie</a></p></div>
+<div style="text-align:right;"><p style="font-size:75%;color:#555">Translations: <a href="/manifesto/pl/">polskie</a></p></div>
 
 Dear supporters of open access to knowledge!
 
