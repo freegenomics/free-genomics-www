@@ -51,7 +51,7 @@ information about their condition and the possibilities for improving their life
 
 Naturally, taking care of oneself and knowing one's conditions does not conflict with
 using professional help or advice. Cooperation with genetics, nutrition, and medicine
-experts is key to managing risk and avoiding risks. Voluntary partnerships between
+experts is key to managing risk and avoiding hazards. Voluntary partnerships between
 individuals and specialists in these fields can create a space where science,
 experience, and passion come together, leading to better results.
 
