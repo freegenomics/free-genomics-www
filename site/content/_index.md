@@ -1,15 +1,14 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Free Genomics
+subtitle: genetical knowledge available to anyone
+image: img/freegenomics-bg.jpg
 blurb:
-  heading: Free Genomics
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  heading: Free Genomics Manifesto
+  text: We wish to introduce to you the Free Genomics Manifesto – an ideal that
+    speaks of cooperation and freedom in the world of sciences regarding the
+    functioning of the human body and modern technologies.
 intro:
-  heading: What we offer
+  heading: What is Free Genomics?
   text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
