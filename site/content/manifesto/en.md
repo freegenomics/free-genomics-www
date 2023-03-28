@@ -42,11 +42,11 @@ level, should be possible for every person. Open and impartial access to the
 achievements of science allows us to explore new paths leading to health and
 well-being.
 
-No one knows our bodies better than we do. We believe that, like human dignity,
-people naturally have control over the condition of their bodies and access to the
-most up-to-date scientific knowledge presented in the most accessible form
-possible. Regardless of whether someone is sick and struggling with illness or
-seeking to improve health and prevent future problems, everyone deserves the maximum
+No one knows our bodies better than we do. We believe that, similarly to human
+dignity, people naturally deserve to have control over the condition of their bodies
+and access to the most up-to-date scientific knowledge presented in accessible
+forms. Regardless of whether someone is sick and struggling with illness or seeking
+to improve health and prevent future problems, everyone deserves the maximum
 information about their condition and the possibilities for improving their life.
 
 Naturally, taking care of oneself and knowing one's conditions does not conflict with
