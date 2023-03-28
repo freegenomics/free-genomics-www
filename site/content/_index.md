@@ -3,14 +3,14 @@ title: Free Genomics
 subtitle: genetical knowledge available to anyone
 image: img/freegenomics-bg.jpg
 blurb:
-  heading: Manifesto
-  text: We wish to introduce to you the Free Genomics Manifesto – an ideal that
-    speaks of cooperation and freedom in the world of sciences regarding the
-    functioning of the human body and modern technologies.
-intro:
   heading: What is Free Genomics?
   text: Free Genomics is an ideal and social movement connecting people who
-    believe that genetic knowledge should be open and accessible to everyone.
+    believe that genetic knowledge should be open and accessible to everyone on
+    the planet.
+intro:
+  heading: How we apply it?
+  text: Free Genomics is not just about knowing more about oneself but also about
+    applying this knowledge to improve the quality of life.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
