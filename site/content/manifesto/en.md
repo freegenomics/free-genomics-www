@@ -1,7 +1,7 @@
 ---
 title: Free Genomics Manifesto
 date: 2023-03-28T11:20:24.355Z
-description: "[English]"
+description: "[EN]"
 ---
 Dear supporters of common access to knowledge!
 
