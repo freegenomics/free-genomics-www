@@ -6,7 +6,7 @@
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
     </div>
     <div class="cms mw6">
-      <p>{{ .Description }}</p>
+      <p>{{ .Lang }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
     </div>

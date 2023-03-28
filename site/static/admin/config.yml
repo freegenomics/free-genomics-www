@@ -21,6 +21,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Language", name: "language", wiget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Intro Blurb", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
