@@ -36,7 +36,7 @@ values:
       farms, local businesses and schools everywhere our coffee is
       grown. You can see the communities grow and learn more about
       coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg
+    imageUrl: "/img/about-direct-sourcing.jpg"
     image: "/img/about-direct-sourcing.jpg"
   - heading: "Reinvest profits"
     text: >
