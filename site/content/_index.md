@@ -8,7 +8,7 @@ blurb:
     believe that genetic knowledge should be open and accessible to everyone on
     the planet.
 intro:
-  heading: How do we apply it?
+  heading: Practical applications
   text: Free Genomics is not just about knowing more about oneself but also about
     applying this knowledge to improve the quality of life.
 applications:
