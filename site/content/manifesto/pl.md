@@ -4,7 +4,7 @@ language: pl
 date: 2023-03-28T14:15:08.475Z
 description: polski
 ---
-<div><p style="font-size:75%;">Tłumaczenia: <a href="/manifesto/en/">English</a></p></div>
+<div style="text-align:right;"><p style="font-size:75%;color:#555">Tłumaczenia: <a href="/manifesto/en/">English</a></p></div>
 
 Drodzy zwolennicy otwartego dostępu do wiedzy!
 
