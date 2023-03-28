@@ -11,7 +11,7 @@ intro:
   heading: How do we apply it?
   text: Free Genomics is not just about knowing more about oneself but also about
     applying this knowledge to improve the quality of life.
-products:
+applications:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
       independent farmers and farm cooperatives. We’re proud to offer a variety
