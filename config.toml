@@ -1,7 +1,16 @@
 languageCode = "en-us"
 title = "Free Genomics"
 [markup]
-  defaultMarkdownHandler = 'goldmark'
+  defaultMarkdownHandler      = "blackfriday"
+  [markup.blackfriday]
+    smartypants             = true
+    smartypantsQuotesNBSP   = false
+    angledQuotes            = false
+    fractions               = true
+    smartDashes             = true
+    latexDashes             = true
+    hrefTargetBlank         = true
+    plainIDAnchors          = true
   [markup.asciidocExt]
     backend = 'html5'
     extensions = []
