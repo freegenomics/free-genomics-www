@@ -1,26 +1,31 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+title: Free Genomics Manifesto
+date: 2023-03-28T11:20:24.355Z
+description: We wish to introduce to you the Free Genomics Manifesto – an ideal
+  that speaks of cooperation and freedom in the world of sciences regarding the
+  functioning of the human body and modern technologies.
 image: /img/blog-chemex.jpg
 ---
+Dear supporters of common access to knowledge!
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+We wish to introduce to you the Free Genomics Manifesto – an ideal that speaks of cooperation and freedom in the world of sciences regarding the functioning of the human body and modern technologies. We want to share a vision of a world in which genetic knowledge is available to anyone, regardless of ethnicity or social status. Therefore, we convey this appeal, a call for the freedom to benefit from the sciences concerning our genes.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+We believe that every person deserves equal access to genetic knowledge and the ability to improve their own health and quality of life. We are convinced that there is no such thing as "too stupid for knowledge." All people have the ability to learn and improve, especially when they really need it. In extreme circumstances, the human mind can overcome great limitations. Genetic knowledge, which concerns ourselves, should not be reserved only for the chosen few. Every person has the right to know the secrets of their own body and the mechanisms of its functioning.
 
-## The little secrets of Chemex brewing
+We recognize that time is a valuable resource. When we suffer and must wait for a specialist appointment, test results, or consultations with an expert, we should have the opportunity to effectively help ourselves and check our own condition through access to open, verified research and services that allow us to use it. As a result, instead of passively watching, we can act to improve our own situation and that of our loved ones. No one should have the right to limit this.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+Among us, there are those who, reading these words, do not feel the pressure of time but, due to innate curiosity, want to know how to prevent potential diseases or strengthen the body. Armed with information about the impact of genes on processes in their bodies, they can shape their efficiency using commonly available substances present in food products or extracted as so-called dietary supplements.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Curiosity is the force that drives science. The pursuit of discovering effective methods for improving the functioning of the body, both at the cellular and general level, should be possible for every person. Open and impartial access to the achievements of science allows us to explore new paths leading to health and well-being.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+No one knows our bodies better than we do. We believe that, like human dignity, people naturally have control over the condition of their bodies and access to the most up-to-date scientific knowledge presented in the most accessible form possible. Regardless of whether someone is sick and struggling with illness or seeking to improve health and prevent future problems, everyone deserves the maximum information about their condition and the possibilities for improving their life.
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Naturally, taking care of oneself and knowing one's conditions does not conflict with using professional help or advice. Cooperation with genetics, nutrition, and medicine experts is key to managing risk and avoiding risks. Voluntary partnerships between individuals and specialists in these fields can create a space where science, experience, and passion come together, leading to better results.
+
+Therefore, users of human bodies, we appeal to you today: together let us strive to achieve an information society in the field of genetics and health sciences as well. Together we can create a world in which a person achieves greater control over the state of their body, knowledge is open, and science serves us all, without being limited by social, economic, or political barriers.
+
+In the spirit of collective truth-seeking, we call for cooperation from scientists, politicians, doctors, and anyone who sees the importance of this issue, to build a global society based on free genomics and full access to genetic information.
+
+Together, we can open the doors to incredible future possibilities, where everyone has access to reliable knowledge and the freedom to decide about their own health and life.
+
+May the vision of free genomics presented here be fully realized and become a reality for us and future generations. We invite everyone who feels they would like to bear this vision to collaborate. Determination and commitment can change the world for the better, leading to the achievement of a common goal: the freedom of genomics and equal access to genetic knowledge for all.
