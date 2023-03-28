@@ -4,6 +4,9 @@ language: pl
 date: 2023-03-28T14:15:08.475Z
 description: polski
 ---
+
+<div><p style="font-size:75%;">Tłumaczenia: <a href="/manifesto/en/">English</a></p></div>
+
 Drodzy zwolennicy otwartego dostępu do wiedzy!
 
 Chcemy przedstawić wam manifest Wolnej Genomiki – ideału, który mówi o współpracy
