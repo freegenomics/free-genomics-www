@@ -3,7 +3,7 @@ title: Free Genomics
 subtitle: genetical knowledge available to anyone
 image: img/freegenomics-bg.jpg
 blurb:
-  heading: Free Genomics Manifesto
+  heading: Manifesto
   text: We wish to introduce to you the Free Genomics Manifesto – an ideal that
     speaks of cooperation and freedom in the world of sciences regarding the
     functioning of the human body and modern technologies.
