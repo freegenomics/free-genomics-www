@@ -9,32 +9,29 @@ blurb:
     the planet.
 corevalues:
   heading: Our core values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: Achieving Free Genomics is about sharing similar values on key issues and
+    expressing them in a daily life.
   list:
     - heading: Empowerment
       image: img/empowerment-img.jpg
       text: >
         We believe that people should have control over their own bodies and
-        access to up-to-date scientific knowledge. Individuals deserve of taking
-        an active role in improving their own situation and that of their loved
-        ones, fostering a sense of autonomy and self-efficacy.
+        deserve of taking an active role in improving their own situation and
+        that of their loved ones, fostering a sense of autonomy and
+        self-efficacy.
     - heading: Curiosity
       image: img/curiosity-img.jpg
       text: >
         Curiosity as a driving force behind progress and the pursuit of
         knowledge. Open and impartial access to scientific achievements allows
         individuals to explore new paths to health and well-being, fostering
-        innovation and growth.
+        innovation.
     - heading: Equal access
       image: img/equal-access-img.jpg
       text: >
         Every person, regardless of ethnicity or social status, deserves equal
-        access to genetic knowledge and the ability to improve their health and
-        quality of life. Bridging the gap in access to scientific knowledge and
-        healthcare resources is important.
+        access to genetic knowledge and the ability to improve their quality of
+        life. Bridging the gap in access to scientific knowledge is important.
 applications:
   heading: Practical applications
   text: Free Genomics is not just about knowing more about oneself but also about
