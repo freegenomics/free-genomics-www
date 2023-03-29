@@ -15,26 +15,26 @@ corevalues:
     exhilarating, empowering and unifying nature.
   list:
     - heading: Empowerment
-      image: img/empowerment.jpg
+      image: img/empowerment-img.jpg
       text: >
         We believe that people should have control over their own bodies and
         access to up-to-date scientific knowledge. Individuals deserve of taking
         an active role in improving their own situation and that of their loved
         ones, fostering a sense of autonomy and self-efficacy.
     - heading: Curiosity
-      image: img/curiosity.jpg
+      image: img/curiosity-img.jpg
       text: >
         Curiosity as a driving force behind progress and the pursuit of
         knowledge. Open and impartial access to scientific achievements allows
         individuals to explore new paths to health and well-being, fostering
         innovation and growth.
     - heading: Equality
-      image: img/equal-access.jpg
+      image: img/equal-access-img.jpg
       text: >
         Every person, regardless of ethnicity or social status, deserves equal
         access to genetic knowledge and the ability to improve their health and
-        quality of life. This core value reflects the need to bridge the gap in
-        access to scientific knowledge and healthcare resources.
+        quality of life. Bridging the gap in access to scientific knowledge and
+        healthcare resources is important.
 applications:
   heading: Practical applications
   text: Free Genomics is not just about knowing more about oneself but also about
