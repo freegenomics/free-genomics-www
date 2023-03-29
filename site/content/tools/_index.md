@@ -1,5 +1,5 @@
 ---
-title: Our Something
+title: Tools
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
@@ -92,5 +92,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: "?"
-type: applications
+type: tools
 ---

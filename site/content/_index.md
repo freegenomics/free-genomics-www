@@ -34,8 +34,8 @@ corevalues:
         Every person, regardless of ethnicity or social status, deserves equal
         access to genetic knowledge and the ability to improve their quality of
         life. Bridging the gap in access to scientific knowledge is important.
-applications:
-  heading: Practical applications
+tools:
+  heading: Tools
   text: Free Genomics is not just about knowing more about oneself but also about
     applying this knowledge to improve the quality of life.
   list:

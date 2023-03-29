@@ -25,18 +25,18 @@ export default class PostPreview extends React.Component {
 
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
-            <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "applications", "heading"])}</h2>
-            <p className="mb4 mw6">{entry.getIn(["data", "applications", "text"])}</p>
+            <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "tools", "heading"])}</h2>
+            <p className="mb4 mw6">{entry.getIn(["data", "tools", "text"])}</p>
 
             <div className="flex-ns mhn2-ns mb3">
-              {(entry.getIn(["data", "applications", "list"]) || []).map((application, i) => <div className="ph2-ns w-50-ns" key={i}>
-                <img src={getAsset(application.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
-                <p>{application.get("text")}</p>
+              {(entry.getIn(["data", "tools", "list"]) || []).map((tool, i) => <div className="ph2-ns w-50-ns" key={i}>
+                <img src={getAsset(tool.get("image"))} alt="" className="center db mb3" style={{width: "240px"}}/>
+                <p>{tool.get("text")}</p>
               </div>)}
             </div>
 
             <div className="tc">
-              <a href="#" className="btn raise">See all applications</a>
+              <a href="#" className="btn raise">See all tools</a>
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@ export default class PostPreview extends React.Component {
                 </div>
 
                 <div className="tc">
-                  <a href="#" className="btn raise">See all applications</a>
+                  <a href="#" className="btn raise">See all tools</a>
                 </div>
 
               </div>

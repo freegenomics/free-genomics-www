@@ -8,7 +8,7 @@ import HomePreview from "./cms-preview-templates/home";
 import PostPreview from "./cms-preview-templates/post";
 import ManifestoPreview from "./cms-preview-templates/manifesto";
 import ProductsPreview from "./cms-preview-templates/products";
-import ApplicationsPreview from "./cms-preview-templates/applications";
+import ToolsPreview from "./cms-preview-templates/tools";
 import CoreValuesPreview from "./cms-preview-templates/corevalues";
 import ContactPreview from "./cms-preview-templates/contact";
 
@@ -16,7 +16,7 @@ CMS.registerPreviewStyle(styles, { raw: true });
 CMS.registerPreviewTemplate("home", HomePreview);
 CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("manifesto", ManifestoPreview);
-CMS.registerPreviewTemplate("applications", ApplicationsPreview);
+CMS.registerPreviewTemplate("tools", ToolsPreview);
 CMS.registerPreviewTemplate("corevalues", CoreValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
 CMS.init();
