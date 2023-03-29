@@ -42,7 +42,7 @@ tools:
       text: Due to competition and variety in the consumer genetic testing industry,
         we now benefit from widespread access to affordable DNA testing and raw
         data results that can be employed in numerous ways.
-    - heading: Cellular Process Modulation
+    - heading: Cellular Processes Modulation
       image: img/cell-fixing.jpg
       text: By examining the connections between SNPs and cellular mechanisms, we can
         optimize our dietary habits to effectively support healing and
