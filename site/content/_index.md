@@ -9,31 +9,28 @@ blurb:
     the planet.
 corevalues:
   heading: Our core values
-  text: Achieving Free Genomics is about sharing similar views on key issues and
-    expressing them in a daily life. By working together we can ensure that the
-    benefits of genomic research are equitably distributed and utilized for the
-    betterment of society as a whole.
+  text: Achieving Free Genomics is about putting its basic principles into
+    practice. By working together we can ensure that the benefits of genomic
+    research are equitably distributed and utilized for the betterment of
+    society as a whole.
   list:
     - heading: Empowerment
       image: img/empowerment-img.jpg
-      text: >
-        We believe that people should have control over their own bodies and
-        deserve of taking an active role in improving their own situation and
-        that of their loved ones, fostering a sense of autonomy and
-        self-efficacy.
+      text: We believe that individuals should have control over their own bodies and
+        actively participate in enhancing their situations without seeking
+        external approval, thus fostering a sense of autonomy and self-efficacy.
     - heading: Curiosity
       image: img/curiosity-img.jpg
       text: >
-        Curiosity as a driving force behind progress and the pursuit of
-        knowledge. Open and impartial access to scientific achievements allows
-        individuals to explore new paths to health and well-being, fostering
-        innovation.
+        Curiosity propels progress and the quest for knowledge. Unrestricted
+        access to scientific accomplishments empowers individuals to pursue
+        novel avenues for health and well-being, thereby promoting innovation.
     - heading: Equal access
       image: img/equal-access-img.jpg
-      text: >
-        Every person, regardless of ethnicity or social status, deserves equal
-        access to genetic knowledge and the ability to improve their quality of
-        life. Bridging the gap in access to scientific knowledge is important.
+      text: All individuals, irrespective of ethnic background or social standing, are
+        entitled to equal access to genetic knowledge and the opportunity to
+        enhance their quality of life. Closing the disparity in accessing
+        scientific information is crucial.
 tools:
   heading: Tools
   text: Free Genomics is not just about knowing more about oneself but also about
