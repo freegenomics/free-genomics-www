@@ -33,22 +33,18 @@ corevalues:
         scientific information is crucial.
 tools:
   heading: Tools
-  text: Free Genomics is not just about knowing more about oneself but also about
-    applying this knowledge to improve the quality of life.
+  text: Free Genomics encompasses not only self-discovery but also the application
+    of this knowledge to enhance one's quality of life using a diverse range of
+    tools.
   list:
     - heading: DNA testing
       image: img/dna-testing.jpg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - heading: Fixing cells
+      text: Due to competition and variety in the consumer genetic testing industry,
+        we now benefit from widespread access to affordable DNA testing and raw
+        data results that can be employed in numerous ways.
+    - heading: Cellular Process Modulation
       image: img/cell-fixing.jpg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: By examining the connections between SNPs and cellular mechanisms, we can
+        optimize our dietary habits to effectively support healing and
+        regeneration processes within our bodies.
 ---
