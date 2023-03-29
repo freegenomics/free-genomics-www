@@ -40,7 +40,7 @@ applications:
     applying this knowledge to improve the quality of life.
   list:
     - heading: "DNA testing"
-    - image: img/illustrations-coffee.svg
+      image: img/illustrations-coffee.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a variety
