@@ -28,7 +28,7 @@ corevalues:
         knowledge. Open and impartial access to scientific achievements allows
         individuals to explore new paths to health and well-being, fostering
         innovation and growth.
-    - heading: Equality
+    - heading: Equal access
       image: img/equal-access-img.jpg
       text: >
         Every person, regardless of ethnicity or social status, deserves equal
