@@ -8,7 +8,7 @@ description: polski
 
 Drodzy zwolennicy otwartego dostępu do wiedzy!
 
-Chcemy przedstawić wam manifest Wolnej Genomiki – ideału, który mówi o współpracy
+Chcemy przedstawić wam Wolną Genomikę – ideał, który mówi o współpracy
 i wolności w świecie nauk dotyczących działania ludzkiego organizmu oraz nowoczesnych
 technologii.
 

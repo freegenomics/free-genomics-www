@@ -8,7 +8,7 @@ description: English
 
 Dear supporters of open access to knowledge!
 
-We wish to introduce to you the Free Genomics Manifesto – an ideal that speaks of
+We wish to introduce to you the Free Genomics – an ideal that speaks of
 cooperation and freedom in the world of sciences regarding the functioning of the
 human body and modern technologies. We want to propose a vision of a world in which
 genetic knowledge is available to anyone, regardless of ethnicity or social
