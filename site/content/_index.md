@@ -9,8 +9,10 @@ blurb:
     the planet.
 corevalues:
   heading: Our core values
-  text: Achieving Free Genomics is about sharing similar values on key issues and
-    expressing them in a daily life.
+  text: Achieving Free Genomics is about sharing similar views on key issues and
+    expressing them in a daily life. By working together we can ensure that the
+    benefits of genomic research are equitably distributed and utilized for the
+    betterment of society as a whole.
   list:
     - heading: Empowerment
       image: img/empowerment-img.jpg
