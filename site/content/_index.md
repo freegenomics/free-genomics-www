@@ -30,28 +30,24 @@ corevalues:
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
   corevalues:
-    - heading: "Shade-grown coffee"
+    - heading: "Empowerment"
       image: /img/about-shade-grown.jpg
       text: >
-        Coffee is a small tree or shrub that grows in the forest
-        understory in its wild form, and traditionally was grown
-        commercially under other trees that provided shade. The
-        forest-like structure of shade coffee farms provides habitat for
-        a great number of migratory and resident species.
-    - heading: "Single origin"
+        We believe that people should have control over their own bodies and
+        access to up-to-date scientific knowledge. Individuals deserve of
+        taking an active role in improving their own situation and that of their
+        loved ones, fostering a sense of autonomy and self-efficacy.
+    - heading: "Curiosity"
       image: /img/about-single-origin.jpg
       text: >
-        Single-origin coffee is coffee grown within a single known
-        geographic origin. Sometimes, this is a single farm or a
-        specific collection of beans from a single country. The name of
-        the coffee is then usually the place it was grown to whatever
-        degree available.
-    - heading: "Direct sourcing"
+        Curiosity as a driving force behind progress and the pursuit of knowledge.
+        Open and impartial access to scientific achievements allows individuals to
+        explore new paths to health and well-being, fostering innovation and growth.
+    - heading: "Equality"
       image: /img/about-direct-sourcing.jpg
       text: >
-        We want to truly empower the communities that bring amazing
-        coffee to you. That’s why we reinvest 20% of our profits into
-        farms, local businesses and schools everywhere our coffee is
-        grown. You can see the communities grow and learn more about
-        coffee farming on our blog.
+        Every person, regardless of ethnicity or social status, deserves equal access
+        to genetic knowledge and the ability to improve their health and quality of
+        life. This core value reflects the need to bridge the gap in access to
+        scientific knowledge and healthcare resources.
 ---
