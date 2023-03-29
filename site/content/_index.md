@@ -7,29 +7,13 @@ blurb:
   text: Free Genomics is an ideal and social movement connecting people who
     believe that genetic knowledge should be open and accessible to everyone on
     the planet.
-intro:
-  heading: Practical applications
-  text: Free Genomics is not just about knowing more about oneself but also about
-    applying this knowledge to improve the quality of life.
-applications:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
 corevalues:
   heading: Our core values
   text: Coffee is an amazing part of human culture but it has a dark side too –
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
-  corevalues:
+  list:
     - heading: "Empowerment"
       image: /img/about-shade-grown.jpg
       text: >
@@ -50,4 +34,20 @@ corevalues:
         to genetic knowledge and the ability to improve their health and quality of
         life. This core value reflects the need to bridge the gap in access to
         scientific knowledge and healthcare resources.
+applications:
+  heading: Practical applications
+  text: Free Genomics is not just about knowing more about oneself but also about
+    applying this knowledge to improve the quality of life.
+  list:
+    - image: img/illustrations-coffee.svg
+      text: We sell green and roasted coffee beans that are sourced directly from
+        independent farmers and farm cooperatives. We’re proud to offer a variety
+        of coffee beans grown with great care for the environment and local
+        communities. Check our post or contact us directly for current
+        availability.
+    - image: /img/illustrations-coffee-gear.svg
+      text: We offer a small, but carefully curated selection of brewing gear and
+        tools for every taste and experience level. No matter if you roast your
+        own beans or just bought your first french press, you’ll find a gadget to
+        fall in love with in our shop.
 ---
