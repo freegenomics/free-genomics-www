@@ -18,8 +18,8 @@ sciences concerning our genes.
 We believe that every person deserves equal access to genetic knowledge and the
 ability to improve their own health and quality of life. We are convinced that there
 is no such thing as "too stupid for knowledge." We all have the ability to learn and
-improve, especially when they really need it. Often times, circumstances make the
-human mind overcome limitations. Genetic knowledge, which concerns ourselves, should
+improve, especially when we really need it. Often times, circumstances make the
+human mind overcome multiple limitations. Genetic knowledge, which concerns ourselves, should
 not be reserved only for the chosen few. Every person has the right to know the
 secrets of their own body and the mechanisms of its functioning.
 

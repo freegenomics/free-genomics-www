@@ -20,7 +20,7 @@ Wierzymy, że każdy człowiek zasługuje na równy dostęp do wiedzy genetyczne
 możliwość poprawy własnego zdrowia i jakości życia. Jesteśmy przekonani, że nie ma
 czegoś takiego jak "za głupi na wiedzę". Wszyscy mamy zdolność uczenia się
 i doskonalenia, szczególnie wtedy, gdy naprawdę tego potrzebujemy. Często
-okoliczności sprawiają, że ludzki umysł pokonuje ograniczenia. Wiedza genetyczna,
+okoliczności sprawiają, że ludzki umysł pokonuje wiele ograniczeń. Wiedza genetyczna,
 która dotyczy nas samych, nie powinna być zarezerwowana tylko dla wybranych. Każdy
 człowiek ma prawo do poznania tajników własnego ciała i mechanizmów jego
 funkcjonowania.
