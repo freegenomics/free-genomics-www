@@ -16,21 +16,25 @@ corevalues:
   list:
     - heading: Empowerment
       image: img/empowerment-img.jpg
-      text: We believe that individuals should have control over their own bodies and
-        actively participate in enhancing their situations without seeking
-        external approval, thus fostering a sense of autonomy and self-efficacy.
+      text: We firmly believe that everyone should possess the power to govern their
+        own body and actively engage in improving their circumstances, rather
+        than seeking external validation or or allowing precious time to be
+        consumed by passivity. This cultivates a strong sense of autonomy and
+        self-efficacy.
     - heading: Curiosity
       image: img/curiosity-img.jpg
-      text: >
-        Curiosity propels progress and the quest for knowledge. Unrestricted
-        access to scientific accomplishments empowers individuals to pursue
-        novel avenues for health and well-being, thereby promoting innovation.
+      text: Curiosity drives progress and the pursuit of knowledge. By providing
+        unrestricted access to scientific achievements, we empower individuals
+        to explore new pathways for health and well-being. In nurturing this
+        environment, we collectively pave the way for a future rich in discovery
+        and innovation.
     - heading: Equal access
       image: img/equal-access-img.jpg
       text: All individuals, irrespective of ethnic background or social standing, are
         entitled to equal access to genetic knowledge and the opportunity to
         enhance their quality of life. Closing the disparity in accessing
-        scientific information is crucial.
+        scientific information is crucial for ensuring fairness and promoting
+        progress for everyone.
 tools:
   heading: Tools
   text: The application of genetic knowledge enables us to improve the quality of
