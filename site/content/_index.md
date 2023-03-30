@@ -34,7 +34,7 @@ corevalues:
         entitled to equal access to genetic knowledge and the opportunity to
         enhance their quality of life. Closing the disparity in accessing
         scientific information is crucial for ensuring fairness and promoting
-        progress for everyone.
+        progress.
 tools:
   heading: Tools
   text: The application of genetic knowledge enables us to improve the quality of
