@@ -33,9 +33,9 @@ corevalues:
         scientific information is crucial.
 tools:
   heading: Tools
-  text: Free Genomics encompasses not only self-discovery but also the application
-    of this knowledge to enhance one's quality of life using a diverse range of
-    tools.
+  text: The application of genetic knowledge enables us to improve the quality of
+    life through a diverse array of tools. We employ well-established utilities
+    that are supported by robust scientific evidence.
   list:
     - heading: DNA testing
       image: img/dna-testing.jpg
